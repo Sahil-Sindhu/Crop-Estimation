@@ -1,0 +1,14 @@
+:root {
+  --bg: #F4ECFF;
+  --card-bg: #ffffff;
+  --primary: #5836F2;
+  --primary-dark: #4426C7;
+  --text-dark: #1a1a1a;
+  --text-light: #6b6b6b;
+  --gradient-purple: linear-gradient(135deg, #6A3CF9, #532ADF);
+}
+
+body {
+  background: var(--bg);
+  font-family: "Inter", sans-serif;
+}
